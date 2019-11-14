@@ -3,3 +3,4 @@ Git has a tiny footprint with lightning fast performance.
 Git is a free software.
 Git is a distributed version control system.
 Git tracks changes of files.
+The Git source repository is on GitHub.
